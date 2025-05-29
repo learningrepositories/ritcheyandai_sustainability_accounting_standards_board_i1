@@ -1,1 +1,3 @@
-# ritcheyandai_sustainability_accounting_standards_board_i1
+# Readme
+
+This file is here for compatibility purposes. Read "/About.txt" instead.
